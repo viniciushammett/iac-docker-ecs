@@ -6,3 +6,7 @@ variable "cargoiam" {
     type = string
 }
 
+variable "ambiente" {
+    type = string
+  
+}
