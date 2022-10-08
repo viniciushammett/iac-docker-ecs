@@ -3,6 +3,7 @@ module "prod" {
 
     nome_repositorio = "producao"
     cargoiam = "producao"
+    ambiente = "producao"
 }
 
 output "IP_alb" {
